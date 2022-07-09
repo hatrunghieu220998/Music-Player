@@ -46,6 +46,7 @@
     border-bottom: 1px solid #ebebeb;
     border-radius: 6px;
     box-shadow: 1px 1px 10px #333;
+    z-index: 1;
   }
   
   /* HEADER */
